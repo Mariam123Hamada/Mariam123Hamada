@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariam123Hamada
+- 👋 Hi, I’m Mariam Abdelsalam
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me www.linkedin.com/in/mariam-hamada-979843335
