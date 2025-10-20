@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mariam123Hamada/Mariam123Hamada/blob/main/hello_mariam.png" alt="Hello World, I'm Mariam Abdelsalam!" width="800"/>
+  <img src="https://github.com/Mariam123Hamada/Mariam123Hamada/blob/main/hello_img.png" alt="Hello World, I'm Mariam Abdelsalam!" width="800"/>
 </p>
 
 # 👩‍💻 About Me
