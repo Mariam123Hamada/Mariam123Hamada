@@ -56,10 +56,10 @@ I love transforming data into intelligent systems — from predictive models to 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam%20Abdelsalam-blue?logo=linkedin)](https://www.linkedin.com/in/mariam-abdelsalam-979843335/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mariam123Hamada-black?logo=github)](https://github.com/Mariam123Hamada)  
-📧 **Email:** [mariam123hamada123@gmail.com](mailto:mariam123hamada123@gmail.com)  
-📍 **Location:** Zagazig, Sharqia, Egypt  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam%20Abdelsalam-blue?logo=linkedin)](https://www.linkedin.com/in/mariam-abdelsalam-979843335/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariam123Hamada-black?logo=github)](https://github.com/Mariam123Hamada)
+[![Email](https://img.shields.io/badge/Email-mariam123hamada123%40gmail.com-red?logo=gmail)](mailto:mariam123hamada123@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Zagazig,%20Egypt-green?logo=google-maps)](https://www.google.com/maps/place/Zagazig,+Sharqia,+Egypt)
 
 ---
 
