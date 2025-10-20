@@ -1,7 +1,11 @@
-# 👋 Hello World, I'm Mariam Abdelsalam
+<p align="center">
+  <img src="https://github.com/Mariam123Hamada/Mariam123Hamada/blob/main/hello_mariam.png" alt="Hello World, I'm Mariam Abdelsalam!" width="800"/>
+</p>
 
-🎓 I'm a Computer Science student at **Zagazig University** passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
-I love transforming data into intelligent systems — from **predictive models** to **generative AI applications**.  
+# 👩‍💻 About Me
+
+🎓 I'm **Mariam Abdelsalam**, a Computer Science student at **Zagazig University** passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
+I love transforming data into intelligent systems — from predictive models to generative AI applications.
 
 ---
 
