@@ -4,7 +4,7 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm **Mariam Abdelsalam**, a Computer Science student at **Zagazig University** passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
+🎓 I'm **Mariam Abdelsalam**, a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
 I love transforming data into intelligent systems — from predictive models to generative AI applications.
 
 ---
