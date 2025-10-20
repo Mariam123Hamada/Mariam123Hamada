@@ -11,7 +11,7 @@ I love transforming data into intelligent systems — from predictive models to 
 
 ## 🚀 About Me
 - 💡 I specialize in **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.  
-- 🔭 Currently exploring  **LLMs** .
+- 🔭 Currently exploring **LLMs**.  
 - 🎯 My goal is to bridge **AI and real-world impact** through innovative projects and research.  
 - 💬 I enjoy mentoring peers in Python, AI, and data-driven thinking through community initiatives like **GDG Zagazig**.  
 
@@ -19,12 +19,31 @@ I love transforming data into intelligent systems — from predictive models to 
 
 ## 🧠 Technical Skills
 
-**Languages:** Python, C++, SQL  
-**Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy  
-**Machine Learning:** LightGBM, XGBoost, Feature Engineering, Model Evaluation  
-**Computer Vision:** CNNs, YOLO, Object Detection, Image Classification  
-**Natural Language Processing:** Transformers, BERT, Word2Vec, Text Classification, Summarization, RAG  
-**Soft Skills:** Leadership, Communication, Team Collaboration, Critical Thinking  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60"/>
+</p>
 
 ---
 
