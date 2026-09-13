@@ -4,9 +4,10 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm **Mariam Abdelsalam**, a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.  
-I love transforming data into intelligent systems — from predictive models to generative AI applications.
-
+🎓 I'm **Mariam Abdelsalam**, a **Computer Science graduate and AI Engineer** passionate about building intelligent, production-oriented AI systems.
+🤖 My interests span **Artificial Intelligence, Machine Learning, LLMs, RAG, Computer Vision, and MLOps**, with a focus on turning ideas and research into practical applications.
+⚙️ I enjoy building **AI-powered backend systems**, developing scalable APIs, deploying and serving ML/LLM models, and automating machine learning workflows.
+🚀 I'm continuously exploring new technologies in **AI Engineering and MLOps**, with the goal of creating reliable AI solutions that deliver real-world impact.
 ---
 
 ## 🚀 About Me
