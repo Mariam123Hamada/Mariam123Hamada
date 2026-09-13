@@ -17,7 +17,7 @@ I love transforming data into intelligent systems — from predictive models to 
 
 ---
 
-```markdown
+
 ## 🧠 Technical Skills
 
 ### 💻 Languages & Databases
@@ -104,7 +104,7 @@ I love transforming data into intelligent systems — from predictive models to 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60"/>
 </p>
-```
+
 
 ---
 
