@@ -4,19 +4,15 @@
 
 # 👩‍💻 About Me
 
-🎓 I'm **Mariam Abdelsalam**, a **Computer Science graduate and AI Engineer** passionate about building intelligent, production-oriented AI systems.
-🤖 My interests span **Artificial Intelligence, Machine Learning, LLMs, RAG, Computer Vision, and MLOps**, with a focus on turning ideas and research into practical applications.
-⚙️ I enjoy building **AI-powered backend systems**, developing scalable APIs, deploying and serving ML/LLM models, and automating machine learning workflows.
-🚀 I'm continuously exploring new technologies in **AI Engineering and MLOps**, with the goal of creating reliable AI solutions that deliver real-world impact.
----
+🎓 **Computer Science Graduate & AI Engineer** passionate about building intelligent, production-oriented AI systems and bridging research with real-world applications.
 
-## 🚀 About Me
-- 💡 I specialize in **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.  
-- 🔭 Currently exploring **LLMs**.  
-- 🎯 My goal is to bridge **AI and real-world impact** through innovative projects and research.  
-- 💬 I enjoy mentoring peers in Python, AI, and data-driven thinking through community initiatives like **GDG Zagazig**.  
+- 🤖 **AI & ML Expertise:** Specialized in **LLMs, RAG, Fine-Tuning (LoRA/QLoRA), Computer Vision**, and building production-grade **MLOps workflows**.
+- ⚙️ **Backend & Serving:** Experienced in developing scalable APIs using **FastAPI, Flask, and Express.js**, optimized model serving with **vLLM, TensorRT, and Triton**, and containerized deployments.
+- 💡 **Mission:** Automating end-to-end ML lifecycles and delivering high-impact, reliable software solutions.
+- 💬 **Community:** Active mentor in Python, AI, and data-driven thinking through leadership roles like **GDG Zagazig**.
 
 ---
+
 ## 🧠 Technical Skills
 
 ### 💻 Languages & Databases
@@ -78,6 +74,7 @@
 <p align="center">
   <strong>AWS: S3 • EC2 • ECS • ECR &nbsp;|&nbsp; Azure Fundamentals &nbsp;|&nbsp; Pytest • Unit Testing • Integration Testing • Load Testing</strong>
 </p>
+
 ---
 
 ## 🏆 Achievements
